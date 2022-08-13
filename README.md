@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Faizal Adhany Halim / youngnikoo**.\
+Perkenalkan nama saya **Faizal Adhany Halim / youngnikoo**.
 
-Saya seorang **Website Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Website Developer** di [Dicoding](https://www.dicoding.com/).
 
 Saya bertanggung jawab pada Back-end dan Front-end Web Developer
 
